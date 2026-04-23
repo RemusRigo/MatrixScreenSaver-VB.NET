@@ -1,32 +1,23 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net10.0-windows</TargetFramework>
-    <StartupObject>Sub Main</StartupObject>
-    <UseWindowsForms>true</UseWindowsForms>
-    <MyType>None</MyType>
-  </PropertyGroup>
+   <PropertyGroup>
+	   <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AssemblyName>MatrixSS</AssemblyName>
+		<MyType>None</MyType>
+		<OutputType>WinExe</OutputType>
+      <StartupObject>Sub Main</StartupObject>
+		<TargetFramework>net10.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+   </PropertyGroup>
 
-  <ItemGroup>
-    <Import Include="System.Data" />
-    <Import Include="System.Drawing" />
-    <Import Include="System.Windows.Forms" />
-  </ItemGroup>
+   <ItemGroup>
+      <Import Include="System.Data" />
+      <Import Include="System.Drawing" />
+      <Import Include="System.Windows.Forms" />
+   </ItemGroup>
 
-  <ItemGroup>
-    <Compile Update="My Project\Application.Designer.vb">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Application.myapp</DependentUpon>
-    </Compile>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="My Project\Application.myapp">
-      <Generator>MyApplicationCodeGenerator</Generator>
-      <LastGenOutput>Application.Designer.vb</LastGenOutput>
-    </None>
-  </ItemGroup>
-
+	<Target Name="RenameToScr" AfterTargets="Build">
+	   <Copy SourceFiles="$(OutputPath)$(AssemblyName).exe" DestinationFiles="$(OutputPath)$(AssemblyName).scr" />
+   </Target>
+	
 </Project>
