@@ -21,13 +21,15 @@ You must install .NET Runtime 10 x64 and then just run MatrixSS.scr
 
 ## Features
 
-* 
+* Multi-Monitor support
 
 
 
 ## Roadmap
 
-2026-04-23: Fix: Multi-Monitor suport
+2026-04-23: Add: Message column in the middle
+
+2026-04-23: Fix: Multi-Monitor support
 
 2026-04-23: Project started
 
