@@ -25,11 +25,15 @@ You must install .NET Runtime 10 x64 and then just run MatrixSS.scr
 
 
 
+## Statistics
+
+![status](https://img.shields.io/badge/status-in%20progress-orange)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/Matrix-SS-VB.NET/total)
+
+
+
 ## Roadmap
 
-2026-04-23: Add: Message column in the middle
-
-2026-04-23: Fix: Multi-Monitor support
-
-2026-04-23: Project started
-
+* 2026-04-23: Add: Message column in the middle
+* 2026-04-23: Fix: Multi-Monitor support
+* 2026-04-23: Project started
