@@ -28,6 +28,7 @@ You must install .NET Runtime 10 x64 and then just run MatrixSS.scr
 ## Statistics
 
 ![status](https://img.shields.io/badge/status-in%20progress-orange)
+<br>
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/Matrix-SS-VB.NET/total)
 
 
