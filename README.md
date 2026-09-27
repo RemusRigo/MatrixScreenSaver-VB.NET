@@ -10,6 +10,12 @@ Another Matrix "rain" ScreenSaver
 
 
 
+## Features
+
+* Multi-Monitor support
+
+
+
 ## Downloads \& Runtimes
 
 This project is available in multiple builds to support different environments. Please ensure you download the correct build for your system architecture and have the appropriate runtime installed.
@@ -19,20 +25,13 @@ This project is available in multiple builds to support different environments. 
 |**.NET Framework 4.8**|x86, x64|[.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48)|
 |**.NET 8.0**|x86, x64|[.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) *(or Desktop Runtime for UI apps)*|
 |**.NET 10.0**|x86, x64|[.NET 10.0 Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) *(or Desktop Runtime for UI apps)*|
-<<<<<<< HEAD
-
-
-
-## Features
-
-* Multi-Monitor support
 
 
 
 ## Statistics
 
-![status](https://img.shields.io/badge/status-in%20progress-orange)<br>
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/Matrix-ScreenSaver-VB.NET/total)
+![status](https://img.shields.io/badge/status-completed-brightgreen)<br>
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/MatrixScreenSaver-VB.NET/total)
 
 
 
