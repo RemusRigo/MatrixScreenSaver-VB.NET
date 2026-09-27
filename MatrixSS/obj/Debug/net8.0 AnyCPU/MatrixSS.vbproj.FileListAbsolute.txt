@@ -1,0 +1,17 @@
+c:\Temp\claude\D--My-Projects-VB-NET-Matrix-ScreenSaver\accf600f-4c9b-47dc-b52a-43e4207b15e7\scratchpad\build\MatrixSS.exe
+c:\Temp\claude\D--My-Projects-VB-NET-Matrix-ScreenSaver\accf600f-4c9b-47dc-b52a-43e4207b15e7\scratchpad\build\MatrixSS.deps.json
+c:\Temp\claude\D--My-Projects-VB-NET-Matrix-ScreenSaver\accf600f-4c9b-47dc-b52a-43e4207b15e7\scratchpad\build\MatrixSS.runtimeconfig.json
+c:\Temp\claude\D--My-Projects-VB-NET-Matrix-ScreenSaver\accf600f-4c9b-47dc-b52a-43e4207b15e7\scratchpad\build\MatrixSS.dll
+c:\Temp\claude\D--My-Projects-VB-NET-Matrix-ScreenSaver\accf600f-4c9b-47dc-b52a-43e4207b15e7\scratchpad\build\MatrixSS.pdb
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.frmCfg.resources
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.frmMatrix.resources
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.vbproj.GenerateResource.cache
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.AssemblyInfoInputs.cache
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.AssemblyInfo.vb
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.vbproj.CoreCompileInputs.cache
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.dll
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\refint\MatrixSS.dll
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.pdb
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\MatrixSS.genruntimeconfig.cache
+D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Debug\net8.0 AnyCPU\ref\MatrixSS.dll
