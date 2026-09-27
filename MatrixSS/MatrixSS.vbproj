@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+   <PropertyGroup>
+	   <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AssemblyName>MatrixSS</AssemblyName>
+		<MyType>None</MyType>
+		<OutputType>WinExe</OutputType>
+      <StartupObject>Sub Main</StartupObject>
+<<<<<<< HEAD
+		<TargetFrameworks>net48;net8.0-windows;net10.0-windows</TargetFrameworks>
+		<UseWindowsForms>true</UseWindowsForms>
+		<Platforms>x64;x86</Platforms>
+		<ApplicationIcon>Res\Matrix.ico</ApplicationIcon>
+   </PropertyGroup>
+
+
+   <PropertyGroup Condition="'$(TargetFramework)' != ''">
+      <TfmName>$(TargetFramework.Replace('-windows', ''))</TfmName>
+      <OutputPath>..\bin\$(Configuration)\$(TfmName) $(Platform)\</OutputPath>
+      <IntermediateOutputPath>obj\$(Configuration)\$(TfmName) $(Platform)\</IntermediateOutputPath>
+   </PropertyGroup>
+
+   <PropertyGroup Condition="'$(Platform)' == 'x86' Or '$(Platform)' == 'x64'">
+      <PlatformTarget>$(Platform)</PlatformTarget>
+   </PropertyGroup>
+
+   <ItemGroup>
+     <Content Include="Res\Matrix.ico" />
+   </ItemGroup>
+
+=======
+		<TargetFramework>net10.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+   </PropertyGroup>
+
+>>>>>>> e70b208ee4b989c28ad5245915103df299ea8e98
+   <ItemGroup>
+      <Import Include="System.Data" />
+      <Import Include="System.Drawing" />
+      <Import Include="System.Windows.Forms" />
+   </ItemGroup>
+
+<<<<<<< HEAD
+   <Target Name="RenameToScr" AfterTargets="Build" Condition="'$(TargetFramework)' != ''">
+=======
+	<Target Name="RenameToScr" AfterTargets="Build">
+>>>>>>> e70b208ee4b989c28ad5245915103df299ea8e98
+	   <Copy SourceFiles="$(OutputPath)$(AssemblyName).exe" DestinationFiles="$(OutputPath)$(AssemblyName).scr" />
+   </Target>
+	
+</Project>
