@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Matrix ScreenSaver
+=======
+# MatrixSS
+>>>>>>> e70b208ee4b989c28ad5245915103df299ea8e98
 
 Another Matrix "rain" ScreenSaver
 
@@ -11,6 +15,7 @@ Another Matrix "rain" ScreenSaver
 
 
 
+<<<<<<< HEAD
 ## Downloads \& Runtimes
 
 This project is available in multiple builds to support different environments. Please ensure you download the correct build for your system architecture and have the appropriate runtime installed.
@@ -20,6 +25,13 @@ This project is available in multiple builds to support different environments. 
 |**.NET Framework 4.8**|x86, x64|[.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48)|
 |**.NET 8.0**|x86, x64|[.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) *(or Desktop Runtime for UI apps)*|
 |**.NET 10.0**|x86, x64|[.NET 10.0 Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) *(or Desktop Runtime for UI apps)*|
+=======
+## Installation
+
+You must install .NET Runtime 10 x64 and then just run MatrixSS.scr
+
+
+>>>>>>> e70b208ee4b989c28ad5245915103df299ea8e98
 
 
 
@@ -31,13 +43,20 @@ This project is available in multiple builds to support different environments. 
 
 ## Statistics
 
+<<<<<<< HEAD
 ![status](https://img.shields.io/badge/status-in%20progress-orange)<br>
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/Matrix-ScreenSaver-VB.NET/total)
+=======
+![status](https://img.shields.io/badge/status-in%20progress-orange)
+<br>
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/Matrix-SS-VB.NET/total)
+>>>>>>> e70b208ee4b989c28ad5245915103df299ea8e98
 
 
 
 ## Roadmap
 
+<<<<<<< HEAD
 * 2026-09-27: Add: Implement 3 colors (RGB)
 * 2026-09-27: Add: Config: select char set
 * 2026-09-27: Add: Preview
@@ -46,3 +65,8 @@ This project is available in multiple builds to support different environments. 
 * 2026-04-23: Fix: Multi-Monitor support
 * 2026-04-23: Project started
 
+=======
+* 2026-04-23: Add: Message column in the middle
+* 2026-04-23: Fix: Multi-Monitor support
+* 2026-04-23: Project started
+>>>>>>> e70b208ee4b989c28ad5245915103df299ea8e98
