@@ -18,7 +18,8 @@ Another Matrix "rain" ScreenSaver
 
 ## Downloads \& Runtimes
 
-This project is available in multiple builds to support different environments. Please ensure you download the correct build for your system architecture and have the appropriate runtime installed.
+This project is available in multiple builds to support different environments.
+The release contains following Frameworks:
 
 |Target Framework|Supported Architectures|Required Runtime|
 |-|-|-|
