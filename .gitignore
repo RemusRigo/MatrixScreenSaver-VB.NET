@@ -1,29 +1,25 @@
 #------------------------------------------------
 # © 2026 Remus Rigo
-#    2026-08-16
+#    v1.1.20261001
 #------------------------------------------------
-# NOTE: git only treats "#" as a comment at the start of a line
 
-# My ignored files ------------------------------
+# My ignored files
 ~Backup~
 ~ToDo~
 [Ss]ync.*
+[Uu]pload.*
+*.bak
+*.log
 *.psd
+*.tmp
 
-# Claude Code
-.claude
-# Visual Studio
-.vs
 # compiler binaries
 [Bb]in
 [Oo]bj
-# Python
-.mypy_cache
-[Bb]uild
-[Dd]ist
-*.spec
-# Rust
-[Tt]arget
+
+# Claude Code
+.claude
+
 # Delphi
 __history
 __recovery
@@ -33,13 +29,21 @@ __recovery
 *.groupproj.local
 *.identcache
 *.tvsconfig
+
 # Lazarus
 *.lps
 
-# backup / log / temporary
-*.bak
-*.log
-*.tmp
+# Python
+.mypy_cache
+[Bb]uild
+[Dd]ist
+*.spec
+
+# Rust
+[Tt]arget
+
+# Visual Studio
+.vs
 
 # Windows
 [Dd]esktop.ini
