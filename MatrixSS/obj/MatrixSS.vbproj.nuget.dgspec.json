@@ -700,7 +700,7 @@
         }
       },
       "runtimes": {
-        "win-x64": {
+        "win-x86": {
           "#import": []
         }
       }

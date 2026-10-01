@@ -1,8 +1,8 @@
 #------------------------------------------------
 # © 2026 Remus Rigo
-<<<<<<< HEAD
 #    2026-08-16
 #------------------------------------------------
+# NOTE: git only treats "#" as a comment at the start of a line
 
 # My ignored files ------------------------------
 ~Backup~
@@ -10,63 +10,21 @@
 [Ss]ync.*
 *.psd
 
-__history		# Delphi
-__recovery		# Delphi
-.claude			# Claude Code
-.mypy_cache		# Python
-.vs			# Visual Studio
-[Bb]in			# compiler binaries
-[Bb]uild		# Python
-[Dd]ist			# Python
-[Oo]bj			# compiled binaries
-[Tt]arget		# Rust
-
-*.bak			# backup
-*.dproj.local		# Delphi
-*.dsk			# Delphi
-*.dsv			# Delphi
-*.groupproj.local	# Delphi
-*.identcache		# Delphi
-*.log			# log
-*.lps			# Lazarus
-*.spec			# Python
-*.tmp			# temporary
-*.tvsconfig		# Delphi
-
-[Dd]esktop.ini		# Windows
-[Tt]humbs.db		# Windows
-=======
-#    2026-06-18
-#------------------------------------------------
-
-#------------------------------------------------
-# My ignored files
-#
-[Ss]ync.*
-*.psd
-
-#------------------------------------------------
-# Common ignored files
-*.bak
-*.log
-*.tmp
-
-#------------------------------------------------
-# Common compiler ignored files
+# Claude Code
+.claude
+# Visual Studio
+.vs
+# compiler binaries
 [Bb]in
 [Oo]bj
-
-#------------------------------------------------
-# Windows ignored files
-#
-[Dd]esktop.ini
-[Tt]humbs.db
-
-#------------------------------------------------
-# Delphi ignored files
-#
-[Bb]in
-[Oo]bj
+# Python
+.mypy_cache
+[Bb]uild
+[Dd]ist
+*.spec
+# Rust
+[Tt]arget
+# Delphi
 __history
 __recovery
 *.dproj.local
@@ -75,16 +33,14 @@ __recovery
 *.groupproj.local
 *.identcache
 *.tvsconfig
-
-#------------------------------------------------
 # Lazarus
-#
 *.lps
 
-#------------------------------------------------
-# Visual Studio
-#
-.vs/
-[Bb]in
-[Oo]bj
->>>>>>> e70b208ee4b989c28ad5245915103df299ea8e98
+# backup / log / temporary
+*.bak
+*.log
+*.tmp
+
+# Windows
+[Dd]esktop.ini
+[Tt]humbs.db
