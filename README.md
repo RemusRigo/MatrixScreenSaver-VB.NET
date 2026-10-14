@@ -1,9 +1,9 @@
 # Matrix ScreenSaver
-Another Matrix "rain" ScreenSaver
+Matrix ScreenSaver: another Matrix "digital rain" screensaver
 
 
 
-## Authors
+## Author
 
 * [@remusrigo](https://github.com/RemusRigo)
 * [@remusrigo](https://sourceforge.net/u/remusrigo/profile)
@@ -12,26 +12,27 @@ Another Matrix "rain" ScreenSaver
 
 ## Features
 
+* Classic Matrix "digital rain": falling columns of characters with a bright head and a fading trail
+* Message column in the center of the screen
+* Selectable character set: Katakana, A-Z, a-z, 0-9 (any combination)
+* 3 color themes: Red, Green, Blue
+* Animated preview in the Windows **Screen Saver Settings** dialog
 * Multi-Monitor support
 
 
 
-## Downloads \& Runtimes
+## User's Guide
 
-This project is available in multiple builds to support different environments.
-The release contains following Frameworks:
-
-|Target Framework|Supported Architectures|Required Runtime|
-|-|-|-|
-|**.NET Framework 4.8**|x86, x64|[.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48)|
-|**.NET 8.0**|x86, x64|[.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) *(or Desktop Runtime for UI apps)*|
-|**.NET 10.0**|x86, x64|[.NET 10.0 Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) *(or Desktop Runtime for UI apps)*|
+See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and settings.
 
 
 
 ## Statistics
 
-![status](https://img.shields.io/badge/status-completed-brightgreen)<br>
+![VB.NET](https://img.shields.io/badge/Language-VB.NET-512BD4?labelColor=555555)
+![VS](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?labelColor=555555)
+<br>
+![status](https://img.shields.io/badge/status-completed-brightgreen) 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/MatrixScreenSaver-VB.NET/total)
 
 
