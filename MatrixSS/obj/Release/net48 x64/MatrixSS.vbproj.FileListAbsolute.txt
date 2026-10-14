@@ -1,6 +1,5 @@
 D:\My Projects\VB.NET\Matrix ScreenSaver\bin\Release\net48 x64\MatrixSS.exe.config
 D:\My Projects\VB.NET\Matrix ScreenSaver\bin\Release\net48 x64\MatrixSS.exe
-D:\My Projects\VB.NET\Matrix ScreenSaver\bin\Release\net48 x64\MatrixSS.pdb
 D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS.vbproj.AssemblyReference.cache
 D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS.frmCfg.resources
 D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS.frmMatrix.resources
@@ -10,4 +9,3 @@ D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS
 D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS.AssemblyInfo.vb
 D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS.vbproj.CoreCompileInputs.cache
 D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS.exe
-D:\My Projects\VB.NET\Matrix ScreenSaver\MatrixSS\obj\Release\net48 x64\MatrixSS.pdb

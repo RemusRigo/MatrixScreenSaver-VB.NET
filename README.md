@@ -29,8 +29,11 @@ See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and 
 
 ## Statistics
 
-![VB.NET](https://img.shields.io/badge/Language-VB.NET-512BD4?labelColor=555555)
-![VS](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?labelColor=555555)
+![VB.NET](https://img.shields.io/badge/Language-VB.NET-blue)
+![.NET4.8](https://img.shields.io/badge/Runtime-.NET%204.8-lightblue)
+![.NET8.0](https://img.shields.io/badge/Runtime-.NET%208.0-lightblue)
+![.NET10.0](https://img.shields.io/badge/Runtime-.NET%2010.0-lightblue)
+![VS](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
 <br>
 ![status](https://img.shields.io/badge/status-completed-brightgreen) 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/MatrixScreenSaver-VB.NET/total)

@@ -33,7 +33,7 @@
    </ItemGroup>
 
    <Target Name="RenameToScr" AfterTargets="Build" Condition="'$(TargetFramework)' != ''">
-      <Copy SourceFiles="$(OutputPath)$(AssemblyName).exe" DestinationFiles="$(OutputPath)$(AssemblyName).scr" />
+      <Move SourceFiles="$(OutputPath)$(AssemblyName).exe" DestinationFiles="$(OutputPath)$(AssemblyName).scr" />
    </Target>
 	
 </Project>
